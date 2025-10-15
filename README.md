@@ -54,5 +54,5 @@ I’m **definitely a chocolate person**, not a coffee one ☕🍫
 ## 📫 Let's Connect!  
 
 - 💼 [Linkedin](https://pt.linkedin.com/in/mariluciadelgado/en) 
-- 🌐 [Portfolio / Website]([https://pt.linkedin.com/in/mariluciadelgado/en](https://mariluciadelgado.com/))
+- 🌐 [Portfolio / Website](https://mariluciadelgado.com/)
 
