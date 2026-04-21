@@ -1,58 +1,32 @@
-# 👋 Hello there!
+<h1 align="center">Hi, I'm Mari</h1>
 
-### I'm Mari 🤘  
-A Portuguese young woman with a big passion for **technology** and **design**.  
-I’m always looking for challenges and I absolutely love **teamwork**!
-
----
-
-## 💡 About Me  
-
-I'm someone who’s constantly learning new things — I love challenges and pushing my own limits.  
-Over the past few years, I’ve taken every opportunity to grow, whether it was:  
-- 🖥️ Building my own computer  
-- 🎨 Painting and redesigning my room  
-- 🛠️ Getting creative with DIY projects  
-- 🌱 Trying to improve my lifestyle (still a work in progress!)  
-
-All these experiences taught me that learning never stops — and that’s what I love the most about technology and design.  
-
-Even though I’m passionate about tech, **not everything I like or do is related to it** — I have many interests and hobbies that help me stay creative and inspired in different ways.  
+<p align="center">
+  Frontend-focused developer · I like interfaces that feel clear and intentional<br/>
+  Portugal · <a href="https://pt.linkedin.com/in/mariluciadelgado/en">LinkedIn</a> · <a href="https://mariluciadelgado.com/">Portfolio</a>
+</p>
 
 ---
 
-## 💻 Why I Love Frontend  
+### Technologies
 
-Frontend development is where I truly found my balance.  
-It allows me to combine my **creative side** 🎨 with my **logical and structured side** 🧠 —  
-building interfaces that not only work well but also look beautiful and feel intuitive.  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,json,vue" alt="HTML, CSS, JavaScript, JSON, Vue" />
+</p>
 
----
-
-## 🎮 A Little More About Me  
-
-I’ve been a **gamer since I was a kid**, influenced by one of my sisters — and that’s probably where my love for technology truly began!  
-Gaming taught me creativity, strategy, and patience — skills that I now carry into my professional life as well.  
+<p align="center"><sub>Vue — still learning</sub></p>
 
 ---
 
-## ✨ What Drives Me  
+### A little about me
 
-- 💻 Exploring **new technologies**  
-- 🎨 Creating **clean and user-friendly designs**  
-- 🤝 Collaborating with **great teams**  
-- 🚀 Constantly **learning and improving**  
+I enjoy combining structure and creativity: turning layouts and interactions into something people actually want to use. I’m always picking up new tools; lately that includes **Vue**.
 
----
-
-## 🍫 Fun Fact  
-
-I’m **definitely a chocolate person**, not a coffee one ☕🍫  
+Outside of code, I like gaming, DIY, and good chocolate.
 
 ---
 
-## 📫 Let's Connect!  
-
-- 💼 [Linkedin](https://pt.linkedin.com/in/mariluciadelgado/en) 
-- 🌐 [Portfolio / Website](https://mariluciadelgado.com/)
-
+<p align="center">
+  <a href="https://pt.linkedin.com/in/mariluciadelgado/en">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://mariluciadelgado.com/">Website</a>
+</p>
